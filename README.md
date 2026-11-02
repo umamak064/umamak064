@@ -1,4 +1,4 @@
-# Hi, I'm Umama Khan 👋
+# Hi, I'm Umama Khan 
 
 Software Engineering graduate building **AI-powered applications and automations** — from full-stack AI platforms to LLM-driven workflows.
 
@@ -14,7 +14,8 @@ Software Engineering graduate building **AI-powered applications and automations
 
 ## Tech stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?logo=n8n&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
